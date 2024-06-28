@@ -2,14 +2,14 @@ _**CPR Training Glove**_
 
 _Overview - Project Description_
 
-The CPR Training Glove is a wearable device designed to assist in performing and training cardiopulmonary resuscitation (CPR) with accurate feedback. 
+The CPR Training Glove is a wearable device designed to assist in performing and training cardiopulmonary resuscitation (CPR) with accurate feedback.
 This project integrates hardware components with custom software to provide real-time guidance and performance evaluation during CPR.
 
 
 **Table of Contents**
-Overview
+Overview/
 Features
-Components
+Components/
 Hardware Connections
 Software Setup
 Usage Instructions
