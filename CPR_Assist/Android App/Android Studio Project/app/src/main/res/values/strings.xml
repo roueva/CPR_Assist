@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CPR Assist</string>
+    <string name="clear">Clear</string>
+    <string name="connect_to_arduino_nano_33_ble">Connect to Arduino Nano 33 BLE</string>
+    <string name="search_linked_bt_devices">Search linked BT devices</string>
+    <string name="linked_bluetooth_devices">Linked Bluetooth devices:</string>
+    <string name="first_chunk_data">Total Compressions: %1$d\nCorrect Weight Compressions: %2$d\nCorrect Frequency Compressions: %3$d\nGrade for Correct Compression Weight: %4$.2f%</string>
+    <string name="second_chunk_data">Grades:\nGrade for Correct Frequency: %1$.2f%\nGrade for Correct Angle: %2$.2f%\nTotal Grade: %3$.2f%</string>
+    <string name="correct_weight_compressions">Correct Weight Compressions</string>
+    <string name="empty_number">--</string>
+    <string name="logo">logo</string>
+    <string name="cpr_assist">CPR Assist</string>
+    <string name="total_grade">Total Grade</string>
+    <string name="empty_grade">--%</string>
+    <string name="total_compressions">Total Compressions</string>
+    <string name="connect">Connect CPR Assist</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="correct_compression_weight">Correct Compression Weight</string>
+    <string name="correct_frequency_compressions">Correct Frequency Compressions</string>
+    <string name="frequency">Frequency</string>
+    <string name="angle">Angle</string>
+    <string name="grades">Grades:</string>
+    <string name="weight">Weight</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="circular_progress_max_width">11dp</dimen> <!-- Adjust as per your design -->
+    <dimen name="circular_progress_width">11dp</dimen>
+    <dimen name="circular_progress_text_size">36dp</dimen>
+</resources>
